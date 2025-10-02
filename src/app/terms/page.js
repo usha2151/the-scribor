@@ -37,7 +37,7 @@ export default function Terms() {
                 1. Acceptance of Terms
               </h2>
               <p className="text-gray-700 dark:text-gray-300 mb-6">
-                Welcome to THE SCRIBOR — House of Paper. By accessing our store, website, or using our services, you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree with any part of these Terms, please do not use our services.
+                Welcome to THE SCRIBOR — House of Paper. By accessing our store, website, or using our services, you agree to be bound by these Terms and Conditions (&ldquo;Terms&rdquo;). If you do not agree with any part of these Terms, please do not use our services.
               </p>
               <p className="text-gray-700 dark:text-gray-300 mb-6">
                 We reserve the right to modify these Terms at any time. Changes will be effective immediately upon posting on our website. Your continued use of our services after changes are posted constitutes your acceptance of the modified Terms.
@@ -122,15 +122,16 @@ export default function Terms() {
                 <li>Receipt or proof of purchase is required</li>
               </ul>
               <p className="text-gray-700 dark:text-gray-300 mb-4">
-                <strong>7.2 Non-Returnable Items:</strong> The following items cannot be returned:
+                <strong>7.2 Non-Returnable Items:</strong> The following items cannot be returned for hygiene and safety reasons:
               </p>
               <ul className="list-disc list-inside text-gray-700 dark:text-gray-300 mb-4 space-y-1">
-                <li>Books (unless defective)</li>
+                <li>Opened stationery sets</li>
                 <li>Personalized or customized items</li>
-                <li>Items marked as "Final Sale" or "Non-Returnable"</li>
+                <li>Gift cards</li>
+                <li>Sale items marked &ldquo;Final Sale&rdquo;</li>
                 <li>Opened or used consumable items</li>
               </ul>
-              <p className="text-gray-700 dark:text-gray-300 mb-4">
+              <p className="text-gray-700 dark:text-gray-300 mb-6">
                 <strong>7.3 Refund Process:</strong> Once we receive and inspect your returned item, we will process your refund within 7-10 business days. Refunds will be issued to the original payment method. Shipping charges are non-refundable unless the return is due to our error or a defective product.
               </p>
               <p className="text-gray-700 dark:text-gray-300 mb-6">

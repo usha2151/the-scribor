@@ -25,8 +25,8 @@ export default function WhyChooseUs() {
             <span className="text-gradient-primary">THE SCRIBOR</span>?
           </h2>
           <p className="text-gray-600 dark:text-gray-400 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed">
-            We're more than just a store — we're your partner in creativity and productivity. 
-            Discover what makes us Ahmedabad's favorite stationery destination.
+            We&lsquo;re more than just a store &mdash; we&lsquo;re your partner in creativity and productivity. 
+            Discover what makes us Ahmedabad&lsquo;s favorite stationery destination.
           </p>
         </div>
 

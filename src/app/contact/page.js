@@ -22,14 +22,14 @@ export default function Contact() {
           <div className="container-custom text-center relative z-10">
             <div className="inline-block mb-4">
               <span className="px-4 py-2 bg-white/20 backdrop-blur-sm rounded-full text-sm font-semibold">
-                💬 We'd Love to Hear From You
+                💬 We&apos;d Love to Hear From You
               </span>
             </div>
             <h1 className="font-poppins font-bold text-4xl md:text-6xl lg:text-7xl mb-6 animate-fade-in">
               Get in Touch
             </h1>
             <p className="text-lg md:text-xl max-w-3xl mx-auto leading-relaxed">
-              Visit our store, send us a message, or give us a call. We're here to help you find exactly what you need!
+              Visit our store, send us a message, or give us a call. We&apos;re here to help you find exactly what you need!
             </p>
             
             {/* Quick Contact Icons */}
@@ -221,7 +221,7 @@ export default function Contact() {
                       Send Us a Message
                     </h2>
                     <p className="text-gray-600 dark:text-gray-400">
-                      Fill out the form below and we'll get back to you within 24 hours
+                      Fill out the form below and we&apos;ll get back to you within 24 hours
                     </p>
                   </div>
                   <ContactForm />

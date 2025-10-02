@@ -32,12 +32,12 @@ export default function Privacy() {
               <p className="text-sm text-gray-500 dark:text-gray-400 mb-8">
                 Last Updated: October 2, 2025 {/* EDITABLE: Update date */}
               </p>
-
+              
               <h2 className="font-poppins font-bold text-2xl text-neutral-text dark:text-white mt-8 mb-4">
                 1. Introduction
               </h2>
               <p className="text-gray-700 dark:text-gray-300 mb-6">
-                Welcome to THE SCRIBOR — House of Paper ("we," "our," or "us"). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our store, use our website, or engage with our services.
+                Welcome to THE SCRIBOR — House of Paper (&ldquo;we,&rdquo; &ldquo;our,&rdquo; or &ldquo;us&rdquo;). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our store, use our website, or engage with our services.
               </p>
               <p className="text-gray-700 dark:text-gray-300 mb-6">
                 By using our services, you agree to the collection and use of information in accordance with this policy. If you do not agree with our policies and practices, please do not use our services.
@@ -128,7 +128,7 @@ export default function Privacy() {
               </p>
 
               <h2 className="font-poppins font-bold text-2xl text-neutral-text dark:text-white mt-8 mb-4">
-                9. Children's Privacy
+                9. Children&apos;s Privacy
               </h2>
               <p className="text-gray-700 dark:text-gray-300 mb-6">
                 Our services are not directed to individuals under the age of 18. We do not knowingly collect personal information from children. If you are a parent or guardian and believe your child has provided us with personal information, please contact us so we can delete such information.
@@ -138,7 +138,7 @@ export default function Privacy() {
                 10. Changes to This Privacy Policy
               </h2>
               <p className="text-gray-700 dark:text-gray-300 mb-6">
-                We may update this Privacy Policy from time to time to reflect changes in our practices or for legal, operational, or regulatory reasons. We will notify you of any material changes by posting the new Privacy Policy on this page and updating the "Last Updated" date. We encourage you to review this Privacy Policy periodically.
+                We may update this Privacy Policy from time to time to reflect changes in our practices or for legal, operational, or regulatory reasons. We will notify you of any material changes by posting the new Privacy Policy on this page and updating the &lsquo;Last Updated&rsquo; date. We encourage you to review this Privacy Policy periodically.
               </p>
 
               <h2 className="font-poppins font-bold text-2xl text-neutral-text dark:text-white mt-8 mb-4">

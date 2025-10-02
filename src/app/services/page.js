@@ -72,7 +72,7 @@ export default function Services() {
                   Books
                 </h3>
                 <p className="text-gray-600 dark:text-gray-400 mb-4">
-                  Fiction, non-fiction, bestsellers, academic books, children's literature, and more. Carefully curated for every reader.
+                  Fiction, non-fiction, bestsellers, academic books, children&apos;s literature, and more. Carefully curated for every reader.
                 </p>
                 <ul className="space-y-2 text-sm text-gray-600 dark:text-gray-400">
                   <li className="flex items-center">
@@ -85,7 +85,7 @@ export default function Services() {
                   </li>
                   <li className="flex items-center">
                     <span className="text-primary-teal mr-2">•</span>
-                    Children's Books
+                    Children&apos;s Books
                   </li>
                 </ul>
               </div>
@@ -265,7 +265,7 @@ export default function Services() {
         title={selectedService ? `Request Quote: ${selectedService.title}` : 'Request Quote'}
       >
         <p className="text-gray-600 dark:text-gray-400 mb-6">
-          Fill out the form below and we'll get back to you within 24 hours with a customized quote.
+          Fill out the form below and we&apos;ll get back to you within 24 hours with a customized quote.
         </p>
         <ContactForm />
       </Modal>
